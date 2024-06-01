@@ -65,14 +65,18 @@ img {
 
 ul {
   list-style-type: none;
+  justify-content: center;
+  display: inline-block;
+  
 }
 
 li {
   margin-bottom: 10px;
+  justify-content: center;
 }
 
 a {
-  color: #007bff;
+  color: #00bfff;
   text-decoration: none;
 }
 
@@ -80,8 +84,7 @@ a {
 footer {
   background-color: #e6e6e6;
   padding: 20px;
-  text-align: center;
-}
+  }
 
 .logo {
   display: flex;
